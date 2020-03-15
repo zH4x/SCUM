@@ -10,5 +10,5 @@ Lost my old source, dont want to lose it again so i uploaded it here.
 Aimbot might need some work havent tested yet cuz im waiting on Hinnie123 to upload his new SCUM SDK.
 https://github.com/hinnie123
 
-Quickly pasted together Radical Heights by ImShotZz amd Fortnite hack by Griizz
+Quickly pasted together Radical Heights by ImShotZz and Fortnite hack by Griizz
 So credit to them
